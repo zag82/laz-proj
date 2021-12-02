@@ -1,2 +1,2 @@
 # laz-proj
-Drawing accurate plans and scemes in 2d
+Drawing accurate plans and schemes in 2d
